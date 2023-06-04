@@ -36,7 +36,7 @@ python car_rental.py
 5. Exit the program by selecting the appropriate option in the menu.
 
 ## Limitations 
-The Project is only a simplified version of a car rental system designed to show a high level view of howthese things work. It is not intended for actual usage purpose.
+The Project is only a simplified version of a car rental system designed to show a high level view of how these things work. It is not intended for actual usage .
 
 ## Contact
 
